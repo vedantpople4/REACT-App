@@ -19,7 +19,7 @@ function App() {
             <Create />
           </Route>
           <Route path="/blogs/:id">
-            <BlogDetails />
+            <BlogDetails  />
           </Route>
        </Switch>
       </div>
